@@ -1,4 +1,6 @@
 # tailwind-vue
+Vue-v2  Tailwind-v1.9.0
+```     ```
 
 ## Project setup
 ```
